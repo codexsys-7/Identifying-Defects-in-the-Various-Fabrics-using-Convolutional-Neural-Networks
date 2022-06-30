@@ -1,0 +1,2 @@
+# Identifying-Defects-in-the-Various-Fabrics-using-Convolutional-Neural-Networks
+The main objective of this project is to identify whether there is any fault in the fabrics or not, this is done using convolutional neural networks where the model is trained on both defected and non-defect fabric dataset. The dataset was obtained from private data repository and some pre-processing has been performed to make sure the data is clean for modelling.
