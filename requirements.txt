@@ -1,0 +1,10 @@
+pandas
+numpy
+tensorflow
+Keras
+sklearn
+matplotlib
+glob
+imageio
+seaborn
+
